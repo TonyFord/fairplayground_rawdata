@@ -1,2 +1,2 @@
 # fairplayground_rawdata
-FairCoin/FairCoop Rawdata 
+FairCoin/FairCoop Rawdata Collection
