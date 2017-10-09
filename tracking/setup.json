@@ -1,0 +1,23 @@
+[
+  {
+  "id":"coingecko",
+  "label":"coingecko.com",
+  "interval":"daily",
+  "fields":[
+    {
+      "id":"ranking",
+      "url":"https://www.coingecko.com",
+      "label":"coingecko ranking",
+      "value_min":1,
+      "value_max":200
+    },
+    {
+      "id":"value",
+      "url":"https://www.coingecko.com",
+      "label":"coingecko value",
+      "value_min":0,
+      "value_max":100
+    }
+  ]
+}
+]
